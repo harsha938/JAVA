@@ -16,7 +16,7 @@ public class Demo2 {
         try {
           obj.show();
         } catch (ClassNotFoundException e) {
-          e.printStackTrace();
+          System.out.println("Exception handled");
         }
     }
 }
