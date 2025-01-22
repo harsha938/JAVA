@@ -15,6 +15,7 @@ public class Demo1 {
       }
       j = 19 / i; */
       if(i==0){
+        System.out.println(j);
         throw new CustomException("Divide by zero");
       }
     }
