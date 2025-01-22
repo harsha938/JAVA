@@ -10,5 +10,6 @@
   "java.import.maven.enabled": true,
   "java.jdt.ls.java.home": "C:\\Program Files\\Java\\jdk-23",
   "files.encoding": "utf8",
-  "files.eol": "\n"
+  "files.eol": "\n",
+  "java.debug.settings.onBuildFailureProceed": true
 }

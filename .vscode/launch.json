@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Demo1",
+      "request": "launch",
+      "mainClass": "Threads.Demo1",
+      "projectName": "JAVA_72d9c41b"
+    },
+    {
+      "type": "java",
+      "name": "Demo",
+      "request": "launch",
+      "mainClass": "Threads.Demo",
+      "projectName": "JAVA_72d9c41b"
+    },
+    {
+      "type": "java",
       "name": "Demo",
       "request": "launch",
       "mainClass": "Input.Demo",
