@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Demo2",
+      "request": "launch",
+      "mainClass": "Exceptions.Demo2",
+      "projectName": "JAVA_72d9c41b"
+    },
+    {
+      "type": "java",
       "name": "Demo1",
       "request": "launch",
       "mainClass": "Exceptions.Demo1",
