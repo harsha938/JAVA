@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Demo",
+      "request": "launch",
+      "mainClass": "Race_Condtions.Demo",
+      "projectName": "JAVA_72d9c41b"
+    },
+    {
+      "type": "java",
       "name": "Demo1",
       "request": "launch",
       "mainClass": "Threads.Demo1",
