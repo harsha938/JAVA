@@ -1,0 +1,15 @@
+# Exceptions and Exception Handling in Java
+
+## What is an Exception?
+An exception is an event that occurs during the execution of a program that disrupts the normal flow of instructions. It is an object that wraps an error event that occurred within a method and contains information about the error, including its type and the state of the program when the error occurred.
+
+## Types of Exceptions
+1. **Checked Exceptions**: These are exceptions that are checked at compile-time. They must be either caught or declared in the method signature using the `throws` keyword. Examples include `IOException`, `SQLException`, etc.
+2. **Unchecked Exceptions**: These are exceptions that are not checked at compile-time. They are subclasses of `RuntimeException`. Examples include `NullPointerException`, `ArrayIndexOutOfBoundsException`, etc.
+3. **Errors**: These are serious problems that a reasonable application should not try to catch. Examples include `OutOfMemoryError`, `StackOverflowError`, etc.
+
+## Exception Handling
+Exception handling in Java is managed via five keywords: `try`, `catch`, `finally`, `throw`, and `throws`.
+
+### Try-Catch Block
+A `try` block is used to wrap the code that might throw an exception. The `catch` block is used to handle the exception.
