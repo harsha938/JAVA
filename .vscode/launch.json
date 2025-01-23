@@ -5,6 +5,13 @@
       "type": "java",
       "name": "Demo",
       "request": "launch",
+      "mainClass": "Collections.Stack.Demo",
+      "projectName": "JAVA_72d9c41b"
+    },
+    {
+      "type": "java",
+      "name": "Demo",
+      "request": "launch",
       "mainClass": "Collections.Sets.Demo",
       "projectName": "JAVA_72d9c41b"
     },
